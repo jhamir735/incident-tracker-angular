@@ -1,5 +1,5 @@
 name: Reporte de incidente
-about: Registrar un incidente técnico del proyecto Angular
+description: Registrar un incidente técnico del proyecto Angular
 title: "INC-___ : "
 labels: ["tipo: bug", "estado: nuevo"]
 body:
